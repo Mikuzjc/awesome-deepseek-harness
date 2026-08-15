@@ -8,7 +8,7 @@
 
 [English](README.md) | 中文
 
-[官方仓库](https://github.com/deepseek-ai/deepseek-harness) · [官方网站](https://deepseek.com/harness) · [Discord](https://discord.gg/Ycq5dCaS4) · [官方讨论区](https://github.com/deepseek-ai/deepseek-harness/discussions) · [dsh-plugin 话题](https://github.com/topics/dsh-plugin)
+[官方仓库](https://github.com/deepseek-ai/deepseek-harness) · [官方网站](https://deepseek.com/harness) · [Discord](https://discord.gg/Ycq5dCaS4) · [官方讨论区](https://github.com/deepseek-ai/deepseek-harness/discussions) · [dsh-plugin 话题](https://github.com/topics/dsh-plugin) · [官方动态跟踪](https://github.com/awesome-deepseekharness/deepseek-official-tracker)
 
 </div>
 
@@ -182,6 +182,10 @@ DeepSeek Harness 是 DeepSeek AI 开源的 agent harness。它的核心哲学是
 - [GitHub Discussions](https://github.com/deepseek-ai/deepseek-harness/discussions) — 反馈与讨论
 - [Discord](https://discord.gg/Ycq5dCaS4) — DeepSeek Harness 官方社区
 - [dsh-plugin 话题](https://github.com/topics/dsh-plugin) — 给插件仓库打这个话题以便被发现
+
+## 🔗 友链
+
+- [DeepSeek Official Tracker](https://github.com/awesome-deepseekharness/deepseek-official-tracker) — 自动跟踪 DeepSeek 官方新闻/变更日志/发布/npm 更新(GitHub Actions 每 6 小时)
 
 ---
 

@@ -8,7 +8,7 @@ A curated collection of the best plugins, tools, skills, and resources built for
 
 English | [中文](README.zh.md)
 
-[Official Repo](https://github.com/deepseek-ai/deepseek-harness) · [Official Site](https://deepseek.com/harness) · [Discord](https://discord.gg/Ycq5dCaS4) · [Discussions](https://github.com/deepseek-ai/deepseek-harness/discussions) · [dsh-plugin Topic](https://github.com/topics/dsh-plugin)
+[Official Repo](https://github.com/deepseek-ai/deepseek-harness) · [Official Site](https://deepseek.com/harness) · [Discord](https://discord.gg/Ycq5dCaS4) · [Discussions](https://github.com/deepseek-ai/deepseek-harness/discussions) · [dsh-plugin Topic](https://github.com/topics/dsh-plugin) · [Official Tracker](https://github.com/awesome-deepseekharness/deepseek-official-tracker)
 
 </div>
 
@@ -182,6 +182,10 @@ The hottest category — giving text-only models "eyes."
 - [GitHub Discussions](https://github.com/deepseek-ai/deepseek-harness/discussions) — feedback & discussion
 - [Discord](https://discord.gg/Ycq5dCaS4) — official DeepSeek Harness community
 - [dsh-plugin topic](https://github.com/topics/dsh-plugin) — tag your plugin repo for discoverability
+
+## 🔗 Sister Project
+
+- [DeepSeek Official Tracker](https://github.com/awesome-deepseekharness/deepseek-official-tracker) — auto-tracked feed of DeepSeek official news, changelog, releases & npm changes (GitHub Actions)
 
 ---
 
